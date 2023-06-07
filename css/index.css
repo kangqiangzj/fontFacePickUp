@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'SourceHanSanNormal'; 
+  src: url("../font/SourceHanSansCN-Normal.ttf"); 
+}
+@font-face {
+  font-family: 'SourceHanSanMedium'; 
+  src: url("../font/SourceHanSansCN-Medium.ttf"); 
+}
+@font-face {
+  font-family: 'SourceHanSanLight'; 
+  src: url("../font/SourceHanSansCN-Light.ttf"); 
+}
+@font-face {
+  font-family: 'SourceHanSanBold'; 
+  src: url("../font/SourceHanSansCN-Bold.ttf"); 
+}
+@font-face {
+  font-family: 'SourceHanSanRegular';
+  src: url("../font/SourceHanSerifCN-Regular.ttf"); 
+}
+
+@font-face {
+  font-family: 'alimamaShuhei';
+  src: url("../font/AlimamaShuHeiTi-Bold.ttf"); 
+}
